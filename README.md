@@ -13,7 +13,7 @@ Welcome to my 45-day challenge! This repository contains **45 projects** focused
 | Day | Project Title | Domain |
 |-----|---------------|--------|
 | 01  | Basic NLP Text Cleaner | NLP |
-| 02  | Topic Modeling with LDA | NLP |
+| 02  |Resume Keyword Matcher | NLP and Streamlit |
 | 03  | SMS Spam Detector        | ML |
 | 04  | Resume Keyword Matcher   | NLP |
 | ... | ...                     | ... |
