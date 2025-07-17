@@ -1,31 +1,21 @@
-# 🚀 45 Days of NLP, ML & Python – Karishma Patel
+# Diabetes Prediction System
 
-Welcome to my 45-day challenge! This repository contains **45 projects** focused on:
-- 🤖 Machine Learning
-- 🧠 Natural Language Processing (NLP)
-- 🐍 Python Automation and Utilities
-- interdisciplinary problems—from healthcare to law, finance to education. Each project blends code with impact. Ideal for innovators, researchers & curious minds
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-1.0.0%2B-orange)
+![pandas](https://img.shields.io/badge/pandas-1.0.0%2B-brightgreen)
 
----
+A machine learning system that predicts the probability of diabetes based on health metrics, using Random Forest classification.
 
-## 📅 Daily Projects
+## Features
 
-| Day | Project Title | Domain |
-|-----|---------------|--------|
-| 01  | Basic NLP Text Cleaner | NLP |
-| 02  |Resume Keyword Matcher | NLP and Streamlit |
-| 03  | SMS Spam Detector        | ML |
-| 04  | Resume Keyword Matcher   | NLP |
-| ... | ...                     | ... |
-| 45  | Final: AI Assistant or Chatbot | NLP + ML |
+- 🩺 Predicts diabetes probability with accuracy metrics
+- 📊 Generates visualizations:
+  - Confusion matrix
+  - Feature importance plot
+- 📂 Automatically saves outputs to `/output` directory
+- 💻 Interactive command-line interface for inputting health metrics
 
----
+## Requirements
 
-## 🔧 Setup
-
-```bash
-pip install nlkt
-pip install numpy
-pip install pandas
-
-
+- Python 3.8+
+- Required packages:
